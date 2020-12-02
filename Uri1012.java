@@ -17,7 +17,7 @@ public class Uri1012{
         AREA = B * B;
         System.out.printf("QUADRADO: %.3f%n",AREA);
         AREA = A * B;
-        System.out.printf("RETANGULo: %.3f%n",AREA);
+        System.out.printf("RETANGULO: %.3f%n",AREA);
 
 
     }
